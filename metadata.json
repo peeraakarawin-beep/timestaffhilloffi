@@ -1,0 +1,11 @@
+{
+  "name": "TimeCute - แอปบันทึกเวลาสแกนใบหน้าและพิกัด",
+  "description": "แอปพลิเคชันลงเวลาทำงานสำหรับพนักงาน ด้วยระบบสแกนใบหน้า ระบุพิกัดสถานที่ทำงานด้วย Google Maps สรุปเวลาเข้า-ออกงานรายวัน และซิงค์ Google Calendar สไตล์น่ารักสดใส ทันสมัย ใช้งานง่าย",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
